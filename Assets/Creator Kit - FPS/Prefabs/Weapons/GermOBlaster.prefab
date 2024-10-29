@@ -58,7 +58,7 @@ MonoBehaviour:
   EndPoint: {fileID: 9125261757865890827}
   advancedSettings:
     spreadAngle: 3
-    projectilePerShot: 5
+    projectilePerShot: 10
     screenShakeMultiplier: 1
   FireAnimationClip: {fileID: 7400006, guid: 36622a955330bc346a249a1e63e61d2a, type: 3}
   ReloadAnimationClip: {fileID: 7400008, guid: 36622a955330bc346a249a1e63e61d2a, type: 3}

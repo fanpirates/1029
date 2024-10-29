@@ -25,7 +25,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _Albedo:
-        m_Texture: {fileID: 2800000, guid: 15e478a127cfeb241a8d95a944c65f1d, type: 3}
+        m_Texture: {fileID: 2800000, guid: a779becf00399924184cd13e046a100e, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BumpMap:
@@ -130,12 +130,12 @@ Material:
     - _ZWrite: 1
     m_Colors:
     - _BrainColor: {r: 0.04403137, g: 0.016909925, b: 0.18867922, a: 1}
-    - _BrainColour: {r: 0, g: 0.023265013, b: 0.13207549, a: 0}
+    - _BrainColour: {r: 1, g: 1, b: 1, a: 0}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _EmissionColour: {r: 0, g: 0, b: 0, a: 0}
     - _VeinColor: {r: 0.23602703, g: 0.6310224, b: 0.9811321, a: 1}
-    - _VeinColour: {r: 0.06655122, g: 0.72097164, b: 1.0592737, a: 0}
+    - _VeinColour: {r: 1.4142135, g: 1.4142135, b: 1.4142135, a: 0}
   m_BuildTextureStacks: []
 --- !u!114 &4704204668194389381
 MonoBehaviour:
