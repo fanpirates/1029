@@ -7,8 +7,8 @@ public class Projectile : MonoBehaviour
     static Collider[] s_SphereCastPool = new Collider[32];
     
     public bool DestroyedOnHit = true;
-    public float TimeToDestroyed = 4.0f;
-    public float ReachRadius = 5.0f;
+    public float TimeToDestroyed = 1.0f;
+    public float ReachRadius = 10000.0f;
     public float damage = 10.0f;
     public AudioClip DestroyedSound;
     
